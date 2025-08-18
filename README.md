@@ -2,6 +2,13 @@
 
 BrutePress is a simple WordPress brute-force tool that allows you to test login security using custom username and password lists.
 
+     ,..~..,                    ¿o‾‾‾oP'
+    d888a888zzzzzzzzzzzzzzzzzzzz8     8b
+     8a8 8a8                    oP   ?b
+     8 8 8 8                     ,ooo.
+
+
+
 ## Features
 
 [+] Uses custom username and password files provided by the user  
