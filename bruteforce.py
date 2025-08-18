@@ -1,6 +1,16 @@
 import requests
 from colorama import Fore, Back
 
+ascii_art = r"""
+     ,..~..,                    ¿o‾‾‾oP'
+    d888a888zzzzzzzzzzzzzzzzzzzz8     8b
+     8a8 8a8                    oP   ?b
+     8 8 8 8                     ,ooo.
+
+     -github.com/askudit
+"""
+print(ascii_art)
+
 url = input("Enter the site: ")#"http://example.com/wp-login.php"
 
 usern =input("Enter username list path: ")#r"D:\bruteforce\username.txt"
@@ -32,3 +42,4 @@ def bruteforce():
                          #   print("[-] Password not found in the dictionary.")
 
 bruteforce()
+
